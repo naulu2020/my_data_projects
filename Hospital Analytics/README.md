@@ -26,5 +26,14 @@
 - Increased staffing and bed allocation recommended in Q3 to handle peak admission volumes; further investigation into factors causing this peak is advised.
 
 ## How to Use  
-- Open the Power BI dashboard file to explore interactive visualizations.  
+- Open the Power BI dashboard file to explore interactive visualizations.
+
+### Overview Page
+![KPI Overview](screenshots/KPI Overview.jpg)
+
+### Operation & Efficiency
+![Operation and Efficiency](screenshots/Operation and Efficiency.jpg)
+
+### Executive Summary
+![Executive Summary](screenshots/Executive Summary.jpg) 
 
