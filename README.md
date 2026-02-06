@@ -65,4 +65,22 @@
 - Mechanical bikes are more available than electric bikes.
 
 ## Repository
-- https://github.com/naulu2020/Dublin-Bike-sharing-project
+- https://github.com/naulu2020/Dublin-Bike-sharing-project.
+
+# Vulnerability Analysis and Mapping (VAM) of Food Security in Rwanda
+
+## Objectives
+- Identify households and districts most vulnerable to food insecurity.
+- Examine household demographics, poverty, and food expenditure patterns.
+- Provide insights for targeted food security interventions.
+
+## Data Used
+- EICV 7 Household Budget Survey (HBS), Rwanda, 2023–2024.
+
+## Tools
+- R (data cleaning, feature engineering, analysis, and visualization).
+
+## Key Insights
+- Male-headed and rural households are more vulnerable to food insecurity.
+- ~42% of households spend a high share of income on food.
+- Districts most at risk: Nyamagabe, Gisagara, and Nyanza.
