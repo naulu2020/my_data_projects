@@ -16,5 +16,5 @@
 - Mechanical bikes are more available than electric bikes.
 
 ## Repository
-- .
+- Open `Dublin Bike sharing demand data analysis project.ipynb` a python file for more detailed technical aspects of the project.
 
