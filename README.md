@@ -11,17 +11,17 @@
 - Analyze real-time Dublin Bike usage across multiple stations and generate actionable insights.
 
 ## Data Used
-- Data was fetched from the **JCDecaux API** over a period of several weeks to capture temporal variations in bike availability and usage.
+- Data was fetched from the **JCDecaux API** over a period of several weeks of December 2022 to capture temporal variations in the bike availability and usage.
 
 ## Tools
 - Python was used to collect data from the API and store it in CSV format for analysis.
 
 ## Key Insights
-- Female employees constitute 62% of the workforce, compared to 38% male.
-- Average salary for females (64,651) is higher than for males (62,632).
-- 72% of employees are on permanent contracts, while 28% are in contracting roles.
-- Average employee tenure is close to 10 years.
-- Finance and IT departments account for the highest salary expenses.
+- Weekday usage is significantly higher than weekend usage.
+- Peak usage occurs around 5:00 PM while  3PM was recorded as offpeak.
+- Station usage is driven by location rather than station capacity.
+- Mechanical bikes are more available than electric bikes.
+- Only 4% of the bike stations have banking system installed.
 
 ---
 
